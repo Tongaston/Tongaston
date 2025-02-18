@@ -73,7 +73,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Tongaston/Tongaston/output/snake.svg" alt="Snake animation" />
 
 ###
 
